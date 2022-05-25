@@ -15,6 +15,9 @@
  - TODO
 ```
 
+# OceanShip Preview
+![ex_screenshot](./figures/oceanship_real_synthetic.png)
+
 # Train & Test
 ```
  - TODO
